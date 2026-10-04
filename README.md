@@ -1,6 +1,6 @@
 # MDGNet
 
-**MDGNet: Multi-Domain Graph-Spectral Network with Variable-Level Routing for Long-Term Time Series Forecasting**
+**MDGNet: Multi-Domain Graph-Spectral Network for Long-TermMultivariate Time Series Forecasting**
 
 MDGNet is a Transformer-based architecture for **long-term multivariate time series forecasting**. Built on the inverted (variate-as-token) encoding paradigm, it combines **graph-domain** and **spectral-domain** modeling and routes individual variables to the branch best suited to them, yielding a flexible and expressive model that handles datasets with hundreds of variates.
 
