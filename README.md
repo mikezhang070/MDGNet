@@ -4,10 +4,6 @@
 
 MDGNet is a Transformer-based architecture for **long-term multivariate time series forecasting**. Built on the inverted (variate-as-token) encoding paradigm, it combines **graph-domain** and **spectral-domain** modeling and routes individual variables to the branch best suited to them, yielding a flexible and expressive model that handles datasets with hundreds of variates.
 
-<p align="center">
-<em>Graph (inter-variate structure) + Spectral (frequency structure) + Variable-Level Routing → accurate long-horizon forecasts.</em>
-</p>
-
 ---
 
 ## Overview
